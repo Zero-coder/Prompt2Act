@@ -8,10 +8,10 @@ instructions to generate middle-level decision-making actions from both natural 
 and visual instructions.
 
 
-策略、视觉增强、通用框架、多模态指令、sota效果
+**策略、视觉增强、通用框架、多模态指令、sota效果**
 Contributions:
-② It supports versatile multimodal prompts for purpose specification. It can effectively utilize not only text instructions but also a diverse of goal images, audios, and various combination of both text and visual information, to define purpose precisely. 
-③ Through comprehensive evaluations in both real-world and simulated settings, Prompt2Act consistently surpasses existing LLM-based planners, showcasing its efficiency across various of open-world manipulation tasks. Moreover, our zero-shot approach outperforming several state-of-the-art learning-based strategies in various challenging scenarios.Our framework can be applied to real-world scenarios in a cost-effective and time-efficient manner, with the extensibility of the Prompt2Act framework allowing users to integrate additional foundation models for broader applications.
+② It supports versatile **multimodal prompts** for purpose specification. It can effectively utilize not only text instructions but also a diverse of goal images, audios, and various combination of both text and visual information, to define purpose precisely. 
+③ **Through comprehensive evaluations in both real-world and simulated settings**, Prompt2Act consistently surpasses existing LLM-based planners, showcasing its efficiency across various of open-world manipulation tasks. Moreover, our zero-shot approach outperforming several state-of-the-art learning-based strategies in various challenging scenarios.Our framework can be applied to real-world scenarios in a cost-effective and time-efficient manner, with the extensibility of the Prompt2Act framework allowing users to integrate additional foundation models for broader applications.
  
  a novel approach for long-horizon robotic planning that leverages vision-language models (VLMs) to generate a sequence of actionable steps.
 
