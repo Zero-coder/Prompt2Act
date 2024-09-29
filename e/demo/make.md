@@ -6,6 +6,8 @@ General-purpose robotic system. We introduce a framework prommpt2Act that marryi
 Instruct2Act, that leverages the in-context learning ability of LLMs and multi-modality
 instructions to generate middle-level decision-making actions from both natural language
 and visual instructions.
+
+
 策略、视觉增强、通用框架、多模态指令、sota效果
 Contributions:
 ② It supports versatile multimodal prompts for purpose specification. It can effectively utilize not only text instructions but also a diverse of goal images, audios, and various combination of both text and visual information, to define purpose precisely. 
