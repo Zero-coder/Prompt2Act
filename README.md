@@ -1,10 +1,14 @@
----
+<img width="570" height="665" alt="image" src="https://github.com/user-attachments/assets/94bba9bf-bebd-4176-906d-0d1858222396" />---
 
 ## 🧠 Prompt2Act: Mapping Prompts into Sequence of Robotic Actions with Large Foundation Models
 
 > Official implementation of our system **Prompt2Act**, which maps open-ended multi-modal prompts into real-world robotic actions via large vision-language models, mixed execution agents, and visual grounding modules.
 
-![system diagram](./figures/p2a.png)
+<img width="2560" height="839" alt="p2a" src="https://github.com/user-attachments/assets/27a8f770-61c1-4085-8fe3-27abb5be8e8d" />
+
+
+
+
 
 ---
 
