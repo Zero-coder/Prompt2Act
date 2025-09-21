@@ -1,4 +1,4 @@
-<img width="570" height="665" alt="image" src="https://github.com/user-attachments/assets/94bba9bf-bebd-4176-906d-0d1858222396" />---
+
 
 ## 🧠 Prompt2Act: Mapping Prompts into Sequence of Robotic Actions with Large Foundation Models
 
