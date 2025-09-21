@@ -120,7 +120,7 @@ If you find this project helpful, please consider citing our paper:
 @article{jiang2025prompt2act,
   title={Prompt2Act: Mapping Prompts into Sequence of Robotic Actions with Large Foundation Models},
   author={Maowei Jiang and Qi Wang and Hongfeng Ai and Zhiyong Dong and Yusong Hu and Ao Liang and Yifan Wang and Ruiqi Li and Quangao Liu and Moquan Chen and Peter Buš and Long Zeng},
-  journal={Information Fusion},
+  journal={ Information Fusion (under_revision)},
   year={2025}
 }
 ```
@@ -132,14 +132,3 @@ If you find this project helpful, please consider citing our paper:
 Maintained by [@Zero-coder](https://github.com/Zero-coder).
 Please open issues or pull requests for contributions.
 
----
-
-如果你需要我再补充：
-
-* demo 视频链接 / gif
-* 环境依赖（例如需要的CUDA版本）
-* 支持的硬件（myCobot、UR、etc.）
-
-可以继续告诉我，我会帮你完善 README.md！
-
-要我导出 Markdown 文件或直接打包 zip 也没问题\~
