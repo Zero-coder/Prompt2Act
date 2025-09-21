@@ -1,6 +1,6 @@
 
 
-## 🧠 Prompt2Act: Mapping Prompts into Sequence of Robotic Actions with Large Foundation Models
+## 🧠 (Undergoing Sorting project process)Prompt2Act: Mapping Prompts into Sequence of Robotic Actions with Large Foundation Models
 
 > Official implementation of our system **Prompt2Act**, which maps open-ended multi-modal prompts into real-world robotic actions via large vision-language models, mixed execution agents, and visual grounding modules.
 
