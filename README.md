@@ -1,5 +1,3 @@
-当然可以兄弟！下面是为你 **Prompt2Act** 项目撰写的一个完整的 `README.md` 草稿，适用于 GitHub 仓库的开源发布。内容包括项目简介、架构图、特性亮点、环境配置、快速上手、数据与模型下载、评估方式、BibTeX 引用等。
-
 ---
 
 ## 🧠 Prompt2Act: Mapping Prompts into Sequence of Robotic Actions with Large Foundation Models
