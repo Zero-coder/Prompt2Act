@@ -1,2 +1,5 @@
-# Prompt2Act (Code Coming Soon...)
-Prompt2Act: Transforming Prompts into Sequence of Actions with Large Foundation Model
+Ethics Statement
+
+Our work develops FDVLA, a vision-language-action framework designed for robotic manipulation tasks in simulated and real-world settings. All experiments were conducted using either publicly available simulation benchmarks (e.g., Push-T, ALOHA, RLBench) or real-world tasks in controlled lab environments with inanimate objects. No human subjects, sensitive personal data, or animal experiments were involved. The visual data used for training and evaluation were either self-collected in lab settings or sourced from open-access datasets. We ensured that no copyrighted or personally identifiable materials were used.
+
+We believe FDVLA poses minimal ethical risks. However, as with all vision-language robotic systems, there exists potential for misuse in surveillance or unsafe deployment. To mitigate this, we publish this work solely for academic research and prohibit its use in high-risk domains without proper safety and ethical safeguards. We encourage the community to explore safety-aligned training, environment simulation fidelity, and robust policy evaluation as future directions to ensure responsible deployment of such systems.
