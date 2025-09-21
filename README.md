@@ -4,7 +4,7 @@
 
 > Official implementation of our system **Prompt2Act**, which maps open-ended multi-modal prompts into real-world robotic actions via large vision-language models, mixed execution agents, and visual grounding modules.
 
-![system diagram](./figures/prompt2act_architecture.png)
+![system diagram](./figures/p2a.png)
 
 ---
 
