@@ -22,6 +22,7 @@
 
 ---
 
+
 ### 📂 Project Structure
 
 ```
@@ -40,7 +41,7 @@ Prompt2Act/
 ```
 
 ---
-
+### Hardware Configuration(Preparing...)
 ### ⚙️ Installation
 
 We recommend Python 3.10 and Linux/Ubuntu.
